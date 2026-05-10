@@ -1,0 +1,6 @@
+{
+  "name": "ChartWise AI",
+  "description": "AI-powered stock chart pattern recognition and options strategy generator. Upload a chart to identify technical formations and get actionable options play recommendations with P&L visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
